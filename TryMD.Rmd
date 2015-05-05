@@ -29,7 +29,7 @@ mydata <- educational %>%
   data.frame()
 
 
-ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) + 
+g <- ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) + 
   geom_line(size = 1, aes(group = "month")) +
   geom_point(shape=21, size=5, fill="white") +
   theme_bw() +
@@ -40,7 +40,7 @@ ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) +
   theme(axis.title.x = element_text(size=16)) +
   theme(axis.title.y = element_text(size=16))
 
-
+g
 ```
 
 
