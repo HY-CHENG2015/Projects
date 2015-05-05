@@ -40,8 +40,8 @@ ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) +
   theme(axis.title.x = element_text(size=16)) +
   theme(axis.title.y = element_text(size=16))
 
-![alt text](images/Rplot01_retenteion.rate.png)
-
+![URL](images/Rplot01_retenteion.rate.png)
+https://github.com/HY-CHENG2015/Projects/blob/master/images/Rplot01_retenteion.rate.png
 ```
 
 
