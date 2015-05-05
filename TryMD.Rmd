@@ -42,5 +42,7 @@ ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) +
 
 ```
 
+https://github.com/HY-CHENG2015/Projects/blob/master/images/Rplot01_retenteion.rate.png
+
 
 
