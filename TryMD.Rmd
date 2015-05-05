@@ -38,10 +38,6 @@ ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) +
   ylab('Retention Rate') +
   theme(axis.title.x = element_text(size=16)) +
   theme(axis.title.y = element_text(size=16))
-
-![Title](images/Rplot01_retenteion.rate.png)
-https://github.com/HY-CHENG2015/Projects/blob/master/images/Rplot01_retenteion.rate.png
- ![Nocs title](https://github.com/HY-CHENG2015/Projects/blob/master/images/Rplot01_retenteion.rate.png "Nocs")
 ```
 
 Figure
