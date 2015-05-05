@@ -42,6 +42,7 @@ ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) +
 
 ![Title](images/Rplot01_retenteion.rate.png)
 https://github.com/HY-CHENG2015/Projects/blob/master/images/Rplot01_retenteion.rate.png
+ ![Nocs title](https://github.com/HY-CHENG2015/Projects/blob/master/images/Rplot01_retenteion.rate.png "Nocs")
 ```
 
 
