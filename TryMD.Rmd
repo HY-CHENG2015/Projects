@@ -41,6 +41,7 @@ ggplot(mydata, aes(x = as.factor(month), y = retention_rate)) +
 
 ```
 
+Figure
 ![My Figure](images/Rplot01_retenteion.rate.png)
 
 
