@@ -6,7 +6,7 @@ library(tidyr)
 ```
 
 ```{r,include=FALSE}
-educational <- read.csv("C:/Users/Cindy/Desktop/class/customer/week 11 Interpreting interactionsDiscrete Time Survival Analysis/educational service long.csv")
+educational <- read.csv("service.csv")
 
 ```
 
